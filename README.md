@@ -12,11 +12,11 @@
 
 - 👯 I’m looking to collaborate on **with any Open Source contribution**
 
-- 👨‍💻 All of my projects are available at [https://github.com/varun-0007/](https://github.com/varun-0007/)
+- 👨‍💻 All of my projects are available [Here!](https://github.com/varun-0007/)
 
 - 💬 Ask me about anything, **I am happy to help, only if the ball is in my court!😉**
 
-- 📫 How to reach me **https://my.bio/varunmyneni/**
+- 📫 Reach me [Here!](https://my.bio/varunmyneni/)
 
 - 📄 Know about my experiences [Click-Here!](https://github.com/varun-0007/varun-0007/blob/main/Varun%20Reseume%20.pdf)
 
