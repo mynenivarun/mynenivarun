@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/varun-0007/varun-0007/blob/main/intro-removebg-preview.png" height="500"/>
+  <img src="https://github.com/varun-0007/varun-0007/blob/main/intro_icons/intro-removebg-preview.png" height="500"/>
   </p>
 <h1 align="center">Hi 👋, I'm Varun Myneni</h1>
 <h3 align="center">This is ME, Varun Myneni, a Third year undergraduate from KL-University Vijayawada. A passionate self-learner .A budding Full-Stack Software Developer and a Competitive Programming Enthusiast , who is obsessed with the idea of improving himself and wants a platform to grow and excel .</h3>
@@ -26,14 +26,14 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://my.bio/varunmyneni" target="blank"><img align="center" src="https://github.com/varun-0007/varun-0007/blob/main/image_2021-08-22_195602-removebg-preview.png" alt="varunmyneni allmylink's" height="30" width="40" /></a>
-<a href="https://codepen.io/varun-0007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="varun-0007" height="30" width="40" /></a>
-<a href="https://twitter.com/varunmyneni7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varunmyneni7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/varun-myneni-994b11193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-myneni-994b11193" height="30" width="40" /></a>
-<a href="https://fb.com/varunmyneni7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="varunmyneni7" height="30" width="40" /></a>
-<a href="https://instagram.com/varun_myneni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varun_myneni" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/varunmyneni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varunmyneni" height="30" width="40" /></a>
-<a href="https://discord.gg/VENOM#8998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VENOM#8998" height="30" width="40" /></a>
+<a href="https://my.bio/varunmyneni" target="blank"><img align="center" src="https://github.com/varun-0007/varun-0007/blob/main/intro_icons/image_2021-08-22_195602-removebg-preview.png" alt="varunmyneni allmylink's" height="30" width="40" /></a>
+<a href="https://codepen.io/varun-0007" target="blank"><img align="center" src="https://github.com/varun-0007/varun-0007/blob/main/intro_icons/codepen.svg" alt="varun-0007" height="30" width="40" /></a>
+<a href="https://twitter.com/varunmyneni7" target="blank"><img align="center" src="https://github.com/varun-0007/varun-0007/blob/main/intro_icons/twitter.svg" alt="varunmyneni7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/varun-myneni-994b11193" target="blank"><img align="center" src="https://github.com/varun-0007/varun-0007/blob/main/intro_icons/linked-in-alt.svg" alt="varun-myneni-994b11193" height="30" width="40" /></a>
+<a href="https://fb.com/varunmyneni7" target="blank"><img align="center" src="https://github.com/varun-0007/varun-0007/blob/main/intro_icons/facebook.svg" alt="varunmyneni7" height="30" width="40" /></a>
+<a href="https://instagram.com/varun_myneni" target="blank"><img align="center" src="https://github.com/varun-0007/varun-0007/blob/main/intro_icons/instagram.svg" alt="varun_myneni" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/varunmyneni" target="blank"><img align="center" src="https://github.com/varun-0007/varun-0007/blob/main/intro_icons/leet-code.svg" alt="varunmyneni" height="30" width="40" /></a>
+<a href="https://discord.gg/VENOM#8998" target="blank"><img align="center" src="https://github.com/varun-0007/varun-0007/blob/main/intro_icons/discord.svg" alt="VENOM#8998" height="30" width="40" /></a>
 </p>
 <br>
 <br>
