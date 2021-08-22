@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **https://my.bio/varunmyneni/**
 
-- 📄 Know about my experiences [https://github.com/varun-0007/varun-0007/blob/main/Varun%20Reseume%20.pdf](https://github.com/varun-0007/varun-0007/blob/main/Varun%20Reseume%20.pdf)
+- 📄 Know about my experiences [Click-Here!](https://github.com/varun-0007/varun-0007/blob/main/Varun%20Reseume%20.pdf)
 
 - ⚡ Fun fact **I Always try to learn something new and then sleep till it store in the brain 😎**
 
