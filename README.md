@@ -47,14 +47,14 @@
 <br>
 <br>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun-0007&show_icons=true&locale=en&layout=compact" alt="varun-0007" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun-0007&show_icons=true&locale=en&layout=compact" alt="varun-0007" /></p>
 <br>
 <br>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-0007&show_icons=true&locale=en" alt="varun-0007" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-0007&show_icons=true&locale=en" alt="varun-0007" /></p>
 <br>
 <br>
 <br>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-0007&" alt="varun-0007" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-0007&" alt="varun-0007" /></p>
