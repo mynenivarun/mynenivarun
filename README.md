@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  </p>
 <h1 align="center">Hi 👋, I'm Varun Myneni</h1>
 <h3 align="center">This is ME, Varun Myneni, a Third year undergraduate from KL-University Vijayawada. A passionate self-learner .A budding Full-Stack Software Developer and a Competitive Programming Enthusiast , who is obsessed with the idea of improving himself and wants a platform to grow and excel .</h3>
 
@@ -25,6 +28,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://my.bio/varunmyneni" target="blank"><img align="center" src="https://github.com/varun-0007/varun-0007/blob/main/image_2021-08-22_195602-removebg-preview.png" alt="varunmyneni allmylink's" height="30" width="40" /></a>
 <a href="https://codepen.io/varun-0007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="varun-0007" height="30" width="40" /></a>
 <a href="https://twitter.com/varunmyneni7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varunmyneni7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/varun-myneni-994b11193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-myneni-994b11193" height="30" width="40" /></a>
