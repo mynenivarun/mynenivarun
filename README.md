@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/varun-0007/varun-0007/blob/main/intro-removebg-preview.png" height="200"/>
+  <img src="https://github.com/varun-0007/varun-0007/blob/main/intro-removebg-preview.png" height="500"/>
   </p>
 <h1 align="center">Hi 👋, I'm Varun Myneni</h1>
 <h3 align="center">This is ME, Varun Myneni, a Third year undergraduate from KL-University Vijayawada. A passionate self-learner .A budding Full-Stack Software Developer and a Competitive Programming Enthusiast , who is obsessed with the idea of improving himself and wants a platform to grow and excel .</h3>
