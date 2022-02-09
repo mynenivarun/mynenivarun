@@ -48,4 +48,5 @@
 <br>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-0007&" alt="varun-0007" /></p>
-<p>Contatct ME!<iframe src="https://gmail.us20.list-manage.com/subscribe?u=8b9523ffb0b76e0a2627dfc8d&id=dd2a1536be" title="Contact ME!"></iframe></p>
+<p>Contatct ME!</iframe></p>
+<iframe src="https://allmylinks.com/varunmyneni?ref=b7ua" width="395" height="163.6" style="max-width:100%;display: block; margin: 0; border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
