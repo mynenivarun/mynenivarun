@@ -2,7 +2,7 @@
   <img src="https://github.com/varun-0007/varun-0007/blob/main/intro_icons/intro-removebg-preview.png" height="500"/>
   </p>
 <h1 align="center">Hi 👋, I'm Varun Myneni</h1>
-<h3 align="center">This is Varun Myneni, a Third year undergraduate from KL-University Vijayawada. A passionate self-learner .A budding Python Developer and a Cyber-Security Enthusiast , who is obsessed with the idea of improving himself and wants a platform to grow and excel .</h3>
+<h3 align="center">This is Varun Myneni, an undergraduate from KL-University, Vijayawada. A passionate self-learner. A budding Python Developer and a Cyber-Security Enthusiast, who is obsessed with the idea of improving himself and wants a platform to grow and excel.</h3>
 
 <p align="left"> <a href="https://twitter.com/varunmyneni7" target="blank"><img src="https://img.shields.io/twitter/follow/varunmyneni7?logo=twitter&style=for-the-badge" alt="varunmyneni7" /></a> </p>
 
@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on **with any Open Source contribution**
 
-- 👨‍💻 All of my projects are available [Here!](https://github.com/varun-0007/)
+- 👨‍💻 All of my projects are available [Here!](https://github.com/mynenivarun/)
 
 - 💬 Ask me about anything, **I am happy to help, only if the ball is in my court!😉**
 
 - 📫 Reach me [Here!](https://my.bio/varunmyneni/)
 
-- 📄 Know about my experiences [Click-Here!](https://github.com/varun-0007/varun-0007/blob/main/Varun%20Resume.pdf)
+- 📄 Know about my experiences [Click-Here!](https://mynenivarun.pythonanywhere.com/static/Resume.pdf)
 
 -[My Portfolio](https://mynenivarun.pythonanywhere.com)
 
