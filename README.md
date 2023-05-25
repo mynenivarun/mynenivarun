@@ -51,5 +51,3 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mynenivarun&" alt="mynenivarun" /></p>
 <p>Contatct ME! : https://allmylinks.com/varunmyneni?ref=b7ua </p>
-
-<iframe src="https://allmylinks.com/widget/profile/varunmyneni.html?dark=1&big=0" width="395" height="161.467" style="max-width:100%;display: block; margin: 0; border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
